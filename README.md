@@ -1,4 +1,4 @@
-# fun-shell
+# fun-shell-scripts
 
 Fun use of print-center-terminal.sh:
 	- 1:
